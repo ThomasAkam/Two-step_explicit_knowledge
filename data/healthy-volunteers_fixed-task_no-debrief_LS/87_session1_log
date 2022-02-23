@@ -1,0 +1,2422 @@
+
+Start Reward Block: 2  / Start Transition Block: 0
+ / Transition reversals: 0 
+2804.683455 :trial-1/RewardBlock:2/TransitionBlock:0
+2834.957211 :ons_ms1
+14005.815682 :up
+14005.815682 :triggered Up
+14164.985911 :ons_ms2
+15035.077553 :left
+15035.077553 :triggered Left
+15155.281989 :ons_msReward
+16666.706581 :trial-2/RewardBlock:2/TransitionBlock:0
+16679.336519 :ons_ms1
+17751.662402 :down
+17751.662402 :triggered Down
+17902.509608 :ons_ms2
+18791.115722 :left
+18791.115722 :triggered Left
+18916.631635 :ons_msNoRwrd
+20424.991650 :trial-3/RewardBlock:2/TransitionBlock:0
+20437.646392 :ons_ms1
+21318.218149 :up
+21318.218149 :triggered Up
+21488.888879 :ons_ms2
+22282.529905 :right
+22282.529905 :triggered Right
+22488.488167 :ons_msReward
+23996.767355 :trial-4/RewardBlock:2/TransitionBlock:0
+24009.397293 :ons_ms1
+24681.720268 :up
+24681.720268 :triggered Up
+24827.544238 :ons_ms2
+25455.294006 :right
+25455.294006 :triggered Right
+25631.165022 :ons_msReward
+27139.755116 :trial-5/RewardBlock:2/TransitionBlock:0
+27152.583486 :ons_ms1
+27710.483922 :up
+27710.483922 :triggered Up
+27876.026639 :ons_ms2
+28303.154427 :down
+28591.207497 :right
+28591.207497 :triggered Right
+28727.259975 :ons_msReward
+30236.820419 :trial-6/RewardBlock:2/TransitionBlock:0
+30249.523913 :ons_ms1
+30825.824209 :up
+30825.824209 :triggered Up
+30966.568919 :ons_ms2
+31427.708970 :right
+31427.708970 :triggered Right
+31598.226172 :ons_msReward
+33106.518618 :trial-7/RewardBlock:2/TransitionBlock:0
+33119.308071 :ons_ms1
+33532.113690 :up
+33532.113690 :triggered Up
+33686.551915 :ons_ms2
+34091.353969 :right
+34091.353969 :triggered Right
+34247.591340 :ons_msReward
+35756.102317 :trial-8/RewardBlock:2/TransitionBlock:0
+35768.728406 :ons_ms1
+36418.250095 :up
+36418.250095 :triggered Up
+36503.288881 :ons_ms2
+37142.038794 :left
+37142.038794 :triggered Left
+37267.912226 :ons_msNoRwrd
+38776.376162 :trial-9/RewardBlock:2/TransitionBlock:0
+38789.068965 :ons_ms1
+39321.369112 :up
+39321.369112 :triggered Up
+39503.206772 :ons_ms2
+39942.426506 :right
+39942.426506 :triggered Right
+40089.020255 :ons_msNoRwrd
+41597.282765 :trial-10/RewardBlock:2/TransitionBlock:0
+41609.886188 :ons_ms1
+42091.793171 :up
+42091.793171 :triggered Up
+42252.251069 :ons_ms2
+42681.875935 :right
+42681.875935 :triggered Right
+42850.926280 :ons_msReward
+44359.458212 :trial-11/RewardBlock:2/TransitionBlock:0
+44372.068050 :ons_ms1
+44896.658004 :up
+44896.658004 :triggered Up
+45112.351834 :ons_ms2
+45561.023601 :right
+45561.023601 :triggered Right
+45743.747790 :ons_msReward
+47251.984640 :trial-12/RewardBlock:2/TransitionBlock:0
+47264.642803 :ons_ms1
+47914.164065 :up
+47914.164065 :triggered Up
+48105.042353 :ons_ms2
+48736.760761 :right
+48736.760761 :triggered Right
+48937.531139 :ons_msNoRwrd
+50445.734205 :trial-13/RewardBlock:2/TransitionBlock:0
+50458.324798 :ons_ms1
+50896.307754 :up
+50896.307754 :triggered Up
+51077.683546 :ons_ms2
+51617.837579 :right
+51617.837579 :triggered Right
+51749.312010 :ons_msNoRwrd
+53257.632253 :trial-14/RewardBlock:2/TransitionBlock:0
+53270.227551 :ons_ms1
+53751.321133 :up
+53751.321133 :triggered Up
+53932.246177 :ons_ms2
+54719.005805 :right
+54719.005805 :triggered Right
+54885.007824 :ons_msReward
+56393.591931 :trial-15/RewardBlock:2/TransitionBlock:0
+56406.260785 :ons_ms1
+56928.539263 :up
+56928.539263 :triggered Up
+57109.053758 :ons_ms2
+57847.111169 :right
+57847.111169 :triggered Right
+58090.353256 :ons_msReward
+59598.702580 :trial-16/RewardBlock:2/TransitionBlock:0
+59611.471933 :ons_ms1
+60089.319186 :up
+60089.319186 :triggered Up
+60290.827696 :ons_ms2
+60701.317135 :right
+60701.317135 :triggered Right
+60852.866551 :ons_msReward
+62362.273466 :trial-17/RewardBlock:2/TransitionBlock:0
+62375.077031 :ons_ms1
+62729.997823 :up
+62729.997823 :triggered Up
+62907.271975 :ons_ms2
+63242.383784 :right
+63242.383784 :triggered Right
+63398.684020 :ons_msReward
+64907.187300 :trial-18/RewardBlock:2/TransitionBlock:0
+64919.851450 :ons_ms1
+65322.410025 :up
+65322.410025 :triggered Up
+65469.057230 :ons_ms2
+65840.601403 :right
+65840.601403 :triggered Right
+65985.515750 :ons_msReward
+67493.809051 :trial-19/RewardBlock:2/TransitionBlock:0
+67506.413329 :ons_ms1
+67971.589590 :up
+67971.589590 :triggered Up
+68112.778633 :ons_ms2
+68484.147895 :right
+68484.147895 :triggered Right
+68649.620050 :ons_msReward
+70158.126323 :trial-20/RewardBlock:2/TransitionBlock:0
+70170.952127 :ons_ms1
+70683.298743 :up
+70683.298743 :triggered Up
+70850.071825 :ons_ms2
+71365.541178 :right
+71365.541178 :triggered Right
+71521.490737 :ons_msNoRwrd
+73029.899078 :trial-21/RewardBlock:2/TransitionBlock:0
+73042.580334 :ons_ms1
+73414.768555 :up
+73414.768555 :triggered Up
+73592.098303 :ons_ms2
+73915.154086 :right
+73915.154086 :triggered Right
+74031.217966 :ons_msNoRwrd
+75539.472351 :trial-22/RewardBlock:2/TransitionBlock:0
+75552.126665 :ons_ms1
+75963.782318 :up
+75963.782318 :triggered Up
+76128.705792 :ons_ms2
+76434.650240 :right
+76434.650240 :triggered Right
+76553.263799 :ons_msReward
+78061.697799 :trial-23/RewardBlock:2/TransitionBlock:0
+78074.505214 :ons_ms1
+78421.128214 :up
+78421.128214 :triggered Up
+78600.208781 :ons_ms2
+78944.393720 :right
+78944.393720 :triggered Right
+79070.602006 :ons_msNoRwrd
+80578.971430 :trial-24/RewardBlock:2/TransitionBlock:0
+80591.635152 :ons_ms1
+80949.436629 :up
+80949.436629 :triggered Up
+81123.411849 :ons_ms2
+81433.703839 :right
+81433.703839 :triggered Right
+81559.410058 :ons_msReward
+83067.712340 :trial-25/RewardBlock:2/TransitionBlock:0
+83080.441922 :ons_ms1
+83575.851686 :up
+83575.851686 :triggered Up
+83726.563325 :ons_ms2
+84085.012699 :right
+84085.012699 :triggered Right
+84214.719631 :ons_msReward
+85723.188271 :trial-26/RewardBlock:2/TransitionBlock:0
+85736.020917 :ons_ms1
+86183.734310 :up
+86183.734310 :triggered Up
+86348.454219 :ons_ms2
+86705.458547 :right
+86705.458547 :triggered Right
+86826.005107 :ons_msReward
+88334.531908 :trial-27/RewardBlock:2/TransitionBlock:0
+88347.170399 :ons_ms1
+88762.636032 :up
+88762.636032 :triggered Up
+88924.127573 :ons_ms2
+89254.731469 :right
+89254.731469 :triggered Right
+89434.495429 :ons_msReward
+90942.794290 :trial-28/RewardBlock:2/TransitionBlock:0
+90955.613251 :ons_ms1
+91274.439526 :up
+91274.439526 :triggered Up
+91450.616743 :ons_ms2
+91964.982746 :left
+91964.982746 :triggered Left
+92150.644925 :ons_msReward
+93659.176430 :trial-29/RewardBlock:2/TransitionBlock:0
+93672.005228 :ons_ms1
+94104.758390 :up
+94104.758390 :triggered Up
+94255.259623 :ons_ms2
+94670.705584 :left
+94670.705584 :triggered Left
+94867.051015 :ons_msNoRwrd
+96375.450374 :trial-30/RewardBlock:2/TransitionBlock:0
+96388.143177 :ons_ms1
+96794.943663 :up
+96794.943663 :triggered Up
+96961.224086 :ons_ms2
+97271.579369 :right
+97271.579369 :triggered Right
+97422.238834 :ons_msReward
+98930.580461 :trial-31/RewardBlock:2/TransitionBlock:0
+98943.359650 :ons_ms1
+99246.196329 :up
+99246.196329 :triggered Up
+99388.312529 :ons_ms2
+99692.519842 :right
+99692.519842 :triggered Right
+99822.571892 :ons_msReward
+101331.051223 :trial-32/RewardBlock:2/TransitionBlock:0
+101343.663627 :ons_ms1
+101794.524561 :up
+101794.524561 :triggered Up
+101974.719170 :ons_ms2
+102264.597899 :right
+102264.597899 :triggered Right
+102385.270190 :ons_msReward
+103893.669978 :trial-33/RewardBlock:2/TransitionBlock:0
+103906.326002 :ons_ms1
+104176.889690 :up
+104176.889690 :triggered Up
+104312.218149 :ons_ms2
+104591.674496 :right
+104591.674496 :triggered Right
+104742.328830 :ons_msNoRwrd
+106250.516928 :trial-34/RewardBlock:2/TransitionBlock:0
+106263.129332 :ons_ms1
+106560.637001 :up
+106560.637001 :triggered Up
+106701.483920 :ons_ms2
+107008.222097 :right
+107008.222097 :triggered Right
+107129.177068 :ons_msReward
+108637.642714 :trial-35/RewardBlock:2/TransitionBlock:0
+108650.434305 :ons_ms1
+108945.444468 :up
+108945.444468 :triggered Up
+109135.255329 :ons_ms2
+109439.302272 :right
+109439.302272 :triggered Right
+109600.730520 :ons_msReward
+111109.201726 :trial-36/RewardBlock:2/TransitionBlock:0
+111121.868015 :ons_ms1
+111493.590092 :up
+111493.590092 :triggered Up
+111640.685480 :ons_ms2
+112055.598582 :left
+112055.598582 :triggered Left
+112215.610437 :ons_msReward
+113723.916996 :trial-37/RewardBlock:2/TransitionBlock:0
+113736.723555 :ons_ms1
+114102.686401 :up
+114102.686401 :triggered Up
+114268.398043 :ons_ms2
+114639.058680 :left
+114639.058680 :triggered Left
+114813.789567 :ons_msNoRwrd
+116322.269326 :trial-38/RewardBlock:2/TransitionBlock:0
+116335.089998 :ons_ms1
+116631.472934 :up
+116631.472934 :triggered Up
+116801.346087 :ons_ms2
+117220.144436 :left
+117220.144436 :triggered Left
+117395.398346 :ons_msReward
+118903.840899 :trial-39/RewardBlock:2/TransitionBlock:0
+118916.493502 :ons_ms1
+119260.785354 :up
+119260.785354 :triggered Up
+119441.479037 :ons_ms2
+119789.463263 :left
+119789.463263 :triggered Left
+119987.169492 :ons_msReward
+121495.395224 :trial-40/RewardBlock:2/TransitionBlock:0
+121508.014470 :ons_ms1
+121793.309165 :up
+121793.309165 :triggered Up
+121958.805696 :ons_ms2
+122269.082291 :left
+122269.082291 :triggered Left
+122434.911110 :ons_msNoRwrd
+123944.214960 :trial-41/RewardBlock:1/TransitionBlock:0
+123956.989873 :ons_ms1
+124344.243527 :up
+124344.243527 :triggered Up
+124539.625879 :ons_ms2
+124886.530704 :left
+124886.530704 :triggered Left
+125062.394449 :ons_msReward
+126570.854108 :trial-42/RewardBlock:1/TransitionBlock:0
+126583.516548 :ons_ms1
+126904.536693 :up
+126904.536693 :triggered Up
+127105.874142 :ons_ms2
+127515.563010 :right
+127515.563010 :triggered Right
+127695.734098 :ons_msNoRwrd
+129203.979502 :trial-43/RewardBlock:1/TransitionBlock:0
+129216.815997 :ons_ms1
+129555.988818 :up
+129555.988818 :triggered Up
+129715.773160 :ons_ms2
+130065.256317 :right
+130065.256317 :triggered Right
+130225.946433 :ons_msNoRwrd
+131734.292336 :trial-44/RewardBlock:1/TransitionBlock:0
+131747.083072 :ons_ms1
+132079.539569 :up
+132079.539569 :triggered Up
+132235.817140 :ons_ms2
+132591.384974 :right
+132591.384974 :triggered Right
+132731.905593 :ons_msReward
+134240.355416 :trial-45/RewardBlock:1/TransitionBlock:0
+134253.033678 :ons_ms1
+134599.456536 :up
+134599.456536 :triggered Up
+134734.759763 :ons_ms2
+135063.059453 :right
+135063.059453 :triggered Right
+135239.500105 :ons_msReward
+136747.526978 :trial-46/RewardBlock:1/TransitionBlock:0
+136760.338241 :ons_ms1
+137063.697087 :up
+137063.697087 :triggered Up
+137215.699389 :ons_ms2
+137558.173280 :left
+137558.173280 :triggered Left
+137728.187987 :ons_msReward
+139236.686990 :trial-47/RewardBlock:1/TransitionBlock:0
+139249.496543 :ons_ms1
+139583.912557 :up
+139583.912557 :triggered Up
+139765.789988 :ons_ms2
+140103.133301 :left
+140103.133301 :triggered Left
+140224.480859 :ons_msReward
+141732.989271 :trial-48/RewardBlock:1/TransitionBlock:0
+141745.649572 :ons_ms1
+142066.859168 :up
+142066.859168 :triggered Up
+142233.893120 :ons_ms2
+142596.271361 :right
+142596.271361 :triggered Right
+142777.161764 :ons_msReward
+144285.461053 :trial-49/RewardBlock:1/TransitionBlock:0
+144298.099116 :ons_ms1
+144679.877502 :up
+144679.877502 :triggered Up
+144855.853721 :ons_ms2
+145169.357401 :right
+145169.357401 :triggered Right
+145361.337756 :ons_msReward
+146869.789718 :trial-50/RewardBlock:1/TransitionBlock:0
+146882.609534 :ons_ms1
+147236.993619 :up
+147236.993619 :triggered Up
+147407.036979 :ons_ms2
+147690.948210 :right
+147690.948210 :triggered Right
+147890.779457 :ons_msReward
+149399.426001 :trial-51/RewardBlock:0/TransitionBlock:0
+149412.116238 :ons_ms1
+149751.000392 :up
+149751.000392 :triggered Up
+149931.252734 :ons_ms2
+150228.220703 :right
+150228.220703 :triggered Right
+150418.322369 :ons_msNoRwrd
+151926.584024 :trial-52/RewardBlock:0/TransitionBlock:0
+151939.309328 :ons_ms1
+152236.594189 :up
+152236.594189 :triggered Up
+152417.477750 :ons_ms2
+152893.910320 :left
+152893.910320 :triggered Left
+153079.426668 :ons_msReward
+154587.864945 :trial-53/RewardBlock:0/TransitionBlock:0
+154600.503863 :ons_ms1
+154914.803837 :up
+154914.803837 :triggered Up
+155079.277417 :ons_ms2
+155378.694993 :left
+155378.694993 :triggered Left
+155554.703714 :ons_msReward
+157063.268149 :trial-54/RewardBlock:0/TransitionBlock:0
+157075.935720 :ons_ms1
+157412.079460 :up
+157412.079460 :triggered Up
+157563.576274 :ons_ms2
+157910.409253 :right
+157910.409253 :triggered Right
+158076.379626 :ons_msReward
+159584.722108 :trial-55/RewardBlock:0/TransitionBlock:0
+159597.557747 :ons_ms1
+159852.093350 :up
+159852.093350 :triggered Up
+160007.986886 :ons_ms2
+160354.388361 :right
+160354.388361 :triggered Right
+160519.157451 :ons_msReward
+162027.623525 :trial-56/RewardBlock:0/TransitionBlock:0
+162040.425380 :ons_ms1
+162287.665615 :up
+162287.665615 :triggered Up
+162463.306124 :ons_ms2
+162821.334258 :left
+162821.334258 :triggered Left
+163023.487245 :ons_msReward
+164531.973846 :trial-57/RewardBlock:0/TransitionBlock:0
+164544.683755 :ons_ms1
+164809.889780 :up
+164809.889780 :triggered Up
+165010.900073 :ons_ms2
+165363.166410 :right
+165363.166410 :triggered Right
+165532.925379 :ons_msNoRwrd
+167041.117754 :trial-58/RewardBlock:0/TransitionBlock:0
+167053.915760 :ons_ms1
+167396.403763 :up
+167396.403763 :triggered Up
+167548.086607 :ons_ms2
+167858.308462 :right
+167858.308462 :triggered Right
+168068.218256 :ons_msNoRwrd
+169576.585970 :trial-59/RewardBlock:0/TransitionBlock:0
+169589.188110 :ons_ms1
+169827.289783 :up
+169827.289783 :triggered Up
+169986.291944 :ons_ms2
+170333.377239 :right
+170333.377239 :triggered Right
+170508.777834 :ons_msReward
+172017.225947 :trial-60/RewardBlock:0/TransitionBlock:0
+172029.898650 :ons_ms1
+172372.795064 :up
+172372.795064 :triggered Up
+172537.525665 :ons_ms2
+172863.636189 :right
+172863.636189 :triggered Right
+173048.844626 :ons_msNoRwrd
+174557.111840 :trial-61/RewardBlock:0/TransitionBlock:0
+174569.725954 :ons_ms1
+174963.089945 :up
+174963.089945 :triggered Up
+175114.361385 :ons_ms2
+175476.356019 :right
+175476.356019 :triggered Right
+175687.697176 :ons_msNoRwrd
+177196.084989 :trial-62/RewardBlock:0/TransitionBlock:0
+177208.707656 :ons_ms1
+177679.073083 :up
+177679.073083 :triggered Up
+177870.828920 :ons_ms2
+178492.946898 :left
+179349.375816 :right
+179349.375816 :triggered Right
+179541.084183 :ons_msNoRwrd
+181049.480976 :trial-63/RewardBlock:0/TransitionBlock:0
+181062.131869 :ons_ms1
+181408.925076 :up
+181408.925076 :triggered Up
+181544.805210 :ons_ms2
+181848.773891 :right
+181848.773891 :triggered Right
+182024.352391 :ons_msNoRwrd
+183532.538779 :trial-64/RewardBlock:0/TransitionBlock:0
+183545.156742 :ons_ms1
+183874.669262 :up
+183874.669262 :triggered Up
+184034.687532 :ons_ms2
+184320.852077 :right
+184320.852077 :triggered Right
+184502.097434 :ons_msReward
+186010.502781 :trial-65/RewardBlock:0/TransitionBlock:0
+186023.330723 :ons_ms1
+186318.801899 :up
+186318.801899 :triggered Up
+186454.772267 :ons_ms2
+186748.702174 :right
+186748.702174 :triggered Right
+186924.426931 :ons_msNoRwrd
+188432.847246 :trial-66/RewardBlock:0/TransitionBlock:0
+188445.524226 :ons_ms1
+188716.510009 :up
+188716.510009 :triggered Up
+188868.119297 :ons_ms2
+189231.699249 :left
+189231.699249 :triggered Left
+189376.858642 :ons_msReward
+190885.131416 :trial-67/RewardBlock:0/TransitionBlock:0
+190897.956365 :ons_ms1
+191131.142143 :up
+191131.142143 :triggered Up
+191293.040384 :ons_ms2
+191638.356043 :right
+191638.356043 :triggered Right
+191793.217219 :ons_msNoRwrd
+193301.582367 :trial-68/RewardBlock:0/TransitionBlock:0
+193314.188783 :ons_ms1
+193610.038006 :up
+193610.038006 :triggered Up
+193791.226913 :ons_ms2
+194104.652331 :right
+194104.652331 :triggered Right
+194287.813156 :ons_msReward
+195796.259558 :trial-69/RewardBlock:0/TransitionBlock:0
+195808.937393 :ons_ms1
+196111.304934 :up
+196111.304934 :triggered Up
+196272.804173 :ons_ms2
+196662.366310 :left
+196662.366310 :triggered Left
+196838.830911 :ons_msReward
+198347.066479 :trial-70/RewardBlock:0/TransitionBlock:0
+198359.698982 :ons_ms1
+198746.686635 :down
+198746.686635 :triggered Down
+198899.220085 :ons_ms2
+199267.188634 :left
+199267.188634 :triggered Left
+199408.106972 :ons_msReward
+200916.560216 :trial-71/RewardBlock:0/TransitionBlock:0
+200929.360361 :ons_ms1
+201415.337764 :up
+201415.337764 :triggered Up
+201606.560315 :ons_ms2
+201883.326284 :right
+201883.326284 :triggered Right
+202055.506637 :ons_msReward
+203563.950900 :trial-72/RewardBlock:0/TransitionBlock:0
+203576.645414 :ons_ms1
+203884.030632 :down
+203884.030632 :triggered Down
+204028.722171 :ons_ms2
+204304.742738 :left
+204304.742738 :triggered Left
+204434.856370 :ons_msReward
+205943.191581 :trial-73/RewardBlock:0/TransitionBlock:0
+205956.010115 :ons_ms1
+206270.180509 :up
+206270.180509 :triggered Up
+206451.736344 :ons_ms2
+206734.344082 :right
+206734.344082 :triggered Right
+206899.279957 :ons_msNoRwrd
+208407.712246 :trial-74/RewardBlock:0/TransitionBlock:0
+208420.476895 :ons_ms1
+208886.594852 :down
+208886.594852 :triggered Down
+209047.450898 :ons_ms2
+209435.922942 :left
+209435.922942 :triggered Left
+209578.331658 :ons_msReward
+211086.790889 :trial-75/RewardBlock:0/TransitionBlock:0
+211099.482409 :ons_ms1
+211529.677339 :up
+211529.677339 :triggered Up
+211686.414638 :ons_ms2
+211913.493929 :right
+212364.766695 :left
+212364.766695 :triggered Left
+212515.565148 :ons_msReward
+214023.818678 :trial-76/RewardBlock:0/TransitionBlock:0
+214036.632935 :ons_ms1
+214314.320929 :down
+214314.320929 :triggered Down
+214475.905699 :ons_ms2
+214737.846577 :left
+214737.846577 :triggered Left
+214888.873398 :ons_msReward
+216397.343321 :trial-77/RewardBlock:0/TransitionBlock:0
+216410.146459 :ons_ms1
+216649.240720 :up
+216649.240720 :triggered Up
+216833.949228 :ons_ms2
+217057.166794 :left
+217057.166794 :triggered Left
+217191.588196 :ons_msReward
+218700.039302 :trial-78/RewardBlock:0/TransitionBlock:0
+218712.675226 :ons_ms1
+218988.439628 :down
+218988.439628 :triggered Down
+219134.093818 :ons_ms2
+219369.589361 :left
+219369.589361 :triggered Left
+219530.150753 :ons_msNoRwrd
+221038.316185 :trial-79/RewardBlock:0/TransitionBlock:0
+221050.932438 :ons_ms1
+221393.749308 :up
+221393.749308 :triggered Up
+221583.938643 :ons_ms2
+222207.800600 :right
+222207.800600 :triggered Right
+222413.427001 :ons_msReward
+223921.819518 :trial-80/RewardBlock:0/TransitionBlock:0
+223934.588016 :ons_ms1
+224349.905253 :up
+224349.905253 :triggered Up
+224489.596649 :ons_ms2
+224883.892072 :left
+224883.892072 :triggered Left
+224999.583892 :ons_msReward
+226508.083750 :trial-81/RewardBlock:0/TransitionBlock:0
+226520.729939 :ons_ms1
+226830.037467 :up
+226830.037467 :triggered Up
+226984.090375 :ons_ms2
+227279.622278 :right
+227279.622278 :triggered Right
+227391.170975 :ons_msNoRwrd
+228899.267127 :trial-82/RewardBlock:0/TransitionBlock:0
+228912.095069 :ons_ms1
+229311.003180 :up
+229311.003180 :triggered Up
+229486.956306 :ons_ms2
+229820.765477 :left
+229820.765477 :triggered Left
+229916.396852 :ons_msReward
+231424.878321 :trial-83/RewardBlock:0/TransitionBlock:0
+231437.706691 :ons_ms1
+231771.878086 :up
+231771.878086 :triggered Up
+231952.223657 :ons_ms2
+232286.964260 :left
+232286.964260 :triggered Left
+232458.007478 :ons_msNoRwrd
+233966.388876 :trial-84/RewardBlock:0/TransitionBlock:0
+233979.035065 :ons_ms1
+234210.101384 :up
+234210.101384 :triggered Up
+234395.997491 :ons_ms2
+234710.238448 :right
+234710.238448 :triggered Right
+234866.631485 :ons_msReward
+236374.964130 :trial-85/RewardBlock:0/TransitionBlock:0
+236387.688152 :ons_ms1
+236627.828457 :up
+236627.828457 :triggered Up
+236808.419930 :ons_ms2
+237154.383914 :right
+237154.383914 :triggered Right
+237334.344167 :ons_msNoRwrd
+238842.778595 :trial-86/RewardBlock:0/TransitionBlock:0
+238855.391854 :ons_ms1
+239077.840068 :up
+239077.840068 :triggered Up
+239235.054203 :ons_ms2
+239574.792812 :right
+239574.792812 :triggered Right
+239781.077374 :ons_msNoRwrd
+241289.485287 :trial-87/RewardBlock:0/TransitionBlock:0
+241302.149437 :ons_ms1
+241497.362865 :up
+241497.362865 :triggered Up
+241649.156472 :ons_ms2
+241935.526719 :right
+241935.526719 :triggered Right
+242117.771506 :ons_msNoRwrd
+243625.996811 :trial-88/RewardBlock:0/TransitionBlock:0
+243638.829457 :ons_ms1
+243952.154377 :up
+243952.154377 :triggered Up
+244093.473855 :ons_ms2
+244439.605480 :left
+244439.605480 :triggered Left
+244611.045561 :ons_msReward
+246119.464593 :trial-89/RewardBlock:0/TransitionBlock:0
+246132.281844 :ons_ms1
+246441.857511 :up
+246441.857511 :triggered Up
+246608.708854 :ons_ms2
+246883.102193 :right
+246883.102193 :triggered Right
+247067.325313 :ons_msReward
+248575.761023 :trial-90/RewardBlock:0/TransitionBlock:0
+248588.452543 :ons_ms1
+248873.417088 :up
+248873.417088 :triggered Up
+249035.261872 :ons_ms2
+249349.575103 :right
+249349.575103 :triggered Right
+249499.313827 :ons_msReward
+251007.586601 :trial-91/RewardBlock:0/TransitionBlock:0
+251020.208413 :ons_ms1
+251263.024129 :up
+251263.024129 :triggered Up
+251440.028858 :ons_ms2
+251721.181714 :right
+251721.181714 :triggered Right
+251926.929569 :ons_msNoRwrd
+253435.478180 :trial-92/RewardBlock:0/TransitionBlock:0
+253448.238553 :ons_ms1
+253802.173600 :up
+253802.173600 :triggered Up
+253973.153952 :ons_ms2
+254250.994619 :right
+254250.994619 :triggered Right
+254412.020016 :ons_msNoRwrd
+255920.441186 :trial-93/RewardBlock:0/TransitionBlock:0
+255933.312321 :ons_ms1
+256174.157830 :up
+256174.157830 :triggered Up
+256293.927768 :ons_ms2
+256544.756457 :right
+256544.756457 :triggered Right
+256719.773018 :ons_msNoRwrd
+258227.966248 :trial-94/RewardBlock:0/TransitionBlock:0
+258240.764682 :ons_ms1
+258513.931506 :up
+258513.931506 :triggered Up
+258704.119559 :ons_ms2
+259010.746972 :right
+259010.746972 :triggered Right
+259190.914211 :ons_msReward
+260699.367883 :trial-95/RewardBlock:0/TransitionBlock:0
+260711.980287 :ons_ms1
+260981.563362 :up
+260981.563362 :triggered Up
+261132.399876 :ons_ms2
+261465.632141 :left
+261465.632141 :triggered Left
+261565.056816 :ons_msReward
+263073.457886 :trial-96/RewardBlock:0/TransitionBlock:0
+263086.181908 :ons_ms1
+263322.351863 :up
+263322.351863 :triggered Up
+263473.755877 :ons_ms2
+263751.050000 :right
+263751.050000 :triggered Right
+263945.975188 :ons_msReward
+265454.254377 :trial-97/RewardBlock:0/TransitionBlock:0
+265467.091300 :ons_ms1
+265722.389839 :up
+265722.389839 :triggered Up
+265873.346953 :ons_ms2
+266186.856620 :left
+266186.856620 :triggered Left
+266313.715369 :ons_msReward
+267822.192990 :trial-98/RewardBlock:0/TransitionBlock:0
+267835.019649 :ons_ms1
+268071.593310 :up
+268071.593310 :triggered Up
+268262.752995 :ons_ms2
+268627.248557 :right
+268627.248557 :triggered Right
+268822.484650 :ons_msNoRwrd
+270330.888287 :trial-99/RewardBlock:0/TransitionBlock:0
+270343.564411 :ons_ms1
+270653.388546 :up
+270653.388546 :triggered Up
+270844.790284 :ons_ms2
+271149.151126 :left
+271149.151126 :triggered Left
+271325.443810 :ons_msReward
+272833.688786 :trial-100/RewardBlock:0/TransitionBlock:0
+272846.470114 :ons_ms1
+273885.341823 :up
+273885.341823 :triggered Up
+274060.336145 :ons_ms2
+274373.748735 :right
+274373.748735 :triggered Right
+274533.836284 :ons_msNoRwrd
+276042.112907 :trial-101/RewardBlock:0/TransitionBlock:0
+276054.894234 :ons_ms1
+276380.990218 :up
+276380.990218 :triggered Up
+276566.921392 :ons_ms2
+276955.289516 :left
+277383.347453 :right
+277383.347453 :triggered Right
+277574.860381 :ons_msNoRwrd
+279083.176776 :trial-102/RewardBlock:0/TransitionBlock:0
+279095.855894 :ons_ms1
+279477.104843 :down
+279477.104843 :triggered Down
+279662.536516 :ons_ms2
+279812.580586 :left
+279812.580586 :triggered Left
+279964.236488 :ons_msReward
+281472.471201 :trial-103/RewardBlock:0/TransitionBlock:0
+281485.277760 :ons_ms1
+281803.519430 :down
+281803.519430 :triggered Down
+281969.483816 :ons_ms2
+282313.917222 :left
+282313.917222 :triggered Left
+282445.983528 :ons_msReward
+283954.430357 :trial-104/RewardBlock:0/TransitionBlock:0
+283967.251029 :ons_ms1
+284522.733503 :down
+284522.733503 :triggered Down
+284693.565886 :ons_ms2
+284974.874408 :left
+284974.874408 :triggered Left
+285130.638793 :ons_msReward
+286639.086050 :trial-105/RewardBlock:0/TransitionBlock:0
+286651.780991 :ons_ms1
+287028.968500 :down
+287028.968500 :triggered Down
+287170.952982 :ons_ms2
+287384.932343 :left
+287384.932343 :triggered Left
+287544.917255 :ons_msNoRwrd
+289053.180193 :trial-106/RewardBlock:0/TransitionBlock:0
+289066.014977 :ons_ms1
+289343.390355 :up
+289343.390355 :triggered Up
+289462.506837 :ons_ms2
+289661.033309 :right
+289661.033309 :triggered Right
+289767.342804 :ons_msNoRwrd
+291275.728478 :trial-107/RewardBlock:0/TransitionBlock:0
+291288.514938 :ons_ms1
+291587.524531 :up
+291587.524531 :triggered Up
+291732.645436 :ons_ms2
+292003.993016 :right
+292003.993016 :triggered Right
+292125.843496 :ons_msNoRwrd
+293634.218052 :trial-108/RewardBlock:0/TransitionBlock:0
+293646.906151 :ons_ms1
+293957.266138 :down
+293957.266138 :triggered Down
+294138.225822 :ons_ms2
+294539.491167 :right
+294539.491167 :triggered Right
+294699.828895 :ons_msReward
+296208.074727 :trial-109/RewardBlock:0/TransitionBlock:0
+296220.870595 :ons_ms1
+296776.398400 :down
+296776.398400 :triggered Down
+296957.184456 :ons_ms2
+297355.520792 :left
+297355.520792 :triggered Left
+297492.168566 :ons_msReward
+299000.629081 :trial-110/RewardBlock:0/TransitionBlock:0
+299013.252603 :ons_ms1
+299301.815011 :up
+299301.815011 :triggered Up
+299471.445684 :ons_ms2
+299851.596843 :right
+299851.596843 :triggered Right
+300046.150399 :ons_msNoRwrd
+301555.182688 :trial-111/RewardBlock:0/TransitionBlock:0
+301567.833153 :ons_ms1
+301816.562483 :down
+301816.562483 :triggered Down
+302000.970777 :ons_ms2
+302299.407740 :left
+302299.407740 :triggered Left
+302454.795788 :ons_msReward
+303963.050601 :trial-112/RewardBlock:0/TransitionBlock:0
+303975.828935 :ons_ms1
+304304.168397 :down
+304304.168397 :triggered Down
+304484.442122 :ons_ms2
+304689.932529 :left
+305067.654607 :right
+305067.654607 :triggered Right
+305207.584206 :ons_msNoRwrd
+306716.819632 :trial-113/RewardBlock:0/TransitionBlock:0
+306729.677082 :ons_ms1
+307034.223954 :up
+307034.223954 :triggered Up
+307209.873016 :ons_ms2
+307439.279179 :right
+307439.279179 :triggered Right
+307594.892173 :ons_msReward
+309103.294954 :trial-114/RewardBlock:0/TransitionBlock:0
+309115.950979 :ons_ms1
+309868.479810 :down
+309868.479810 :triggered Down
+310024.256169 :ons_ms2
+310239.876870 :left
+310239.876870 :triggered Left
+310411.893858 :ons_msReward
+311920.185876 :trial-115/RewardBlock:0/TransitionBlock:0
+311932.992008 :ons_ms1
+312239.858053 :up
+312239.858053 :triggered Up
+312421.414743 :ons_ms2
+312678.269519 :right
+312678.269519 :triggered Right
+312858.544955 :ons_msNoRwrd
+314366.985369 :trial-116/RewardBlock:0/TransitionBlock:0
+314379.778244 :ons_ms1
+314700.067099 :down
+314700.067099 :triggered Down
+314840.193420 :ons_ms2
+315086.449620 :left
+315086.449620 :triggered Left
+315228.651779 :ons_msReward
+316737.149072 :trial-117/RewardBlock:0/TransitionBlock:0
+316749.810656 :ons_ms1
+317148.655474 :up
+317148.655474 :triggered Up
+317299.578375 :ons_ms2
+317590.242707 :right
+317590.242707 :triggered Right
+317706.749210 :ons_msNoRwrd
+319214.810722 :trial-118/RewardBlock:0/TransitionBlock:0
+319227.579220 :ons_ms1
+319499.575552 :down
+319499.575552 :triggered Down
+319668.643431 :ons_ms2
+319971.599853 :left
+319971.599853 :triggered Left
+320087.507211 :ons_msReward
+321595.980983 :trial-119/RewardBlock:0/TransitionBlock:0
+321608.595525 :ons_ms1
+321873.283660 :down
+321873.283660 :triggered Down
+322024.416539 :ons_ms2
+322192.327184 :left
+322721.425049 :right
+322721.425049 :triggered Right
+322852.739537 :ons_msNoRwrd
+324361.154292 :trial-120/RewardBlock:0/TransitionBlock:0
+324373.820153 :ons_ms1
+324853.413094 :up
+324853.413094 :triggered Up
+324999.583464 :ons_ms2
+325413.538619 :left
+325413.538619 :triggered Left
+325570.303716 :ons_msReward
+327078.568365 :trial-121/RewardBlock:0/TransitionBlock:0
+327091.251759 :ons_ms1
+327397.903122 :down
+327397.903122 :triggered Down
+327534.838280 :ons_ms2
+327864.152368 :left
+327864.152368 :triggered Left
+327990.675836 :ons_msReward
+329499.190235 :trial-122/RewardBlock:0/TransitionBlock:0
+329512.017322 :ons_ms1
+329859.484941 :up
+329859.484941 :triggered Up
+330025.117039 :ons_ms2
+330284.924346 :right
+330284.924346 :triggered Right
+330430.598636 :ons_msNoRwrd
+331938.983883 :trial-123/RewardBlock:0/TransitionBlock:0
+331951.638197 :ons_ms1
+332236.581359 :down
+332236.581359 :triggered Down
+332402.986230 :ons_ms2
+332905.991148 :right
+332905.991148 :triggered Right
+333107.817834 :ons_msNoRwrd
+334615.959318 :trial-124/RewardBlock:0/TransitionBlock:0
+334628.615770 :ons_ms1
+334905.722153 :up
+334905.722153 :triggered Up
+335106.418119 :ons_ms2
+335450.271625 :right
+335450.271625 :triggered Right
+335645.828888 :ons_msNoRwrd
+337154.318910 :trial-125/RewardBlock:0/TransitionBlock:0
+337167.185769 :ons_ms1
+337604.640143 :down
+337604.640143 :triggered Down
+337816.070679 :ons_ms2
+338145.241076 :left
+338145.241076 :triggered Left
+338321.334900 :ons_msReward
+339829.800118 :trial-126/RewardBlock:0/TransitionBlock:0
+339842.445879 :ons_ms1
+340167.164814 :up
+340167.164814 :triggered Up
+340334.033262 :ons_ms2
+340550.845838 :right
+340550.845838 :triggered Right
+340711.394827 :ons_msNoRwrd
+342219.624408 :trial-127/RewardBlock:0/TransitionBlock:0
+342232.237239 :ons_ms1
+342527.414188 :down
+342527.414188 :triggered Down
+342721.803096 :ons_ms2
+343037.512621 :left
+343037.512621 :triggered Left
+343228.491836 :ons_msReward
+344736.912578 :trial-128/RewardBlock:0/TransitionBlock:0
+344749.729401 :ons_ms1
+344999.727584 :up
+344999.727584 :triggered Up
+345182.048494 :ons_ms2
+345448.926222 :right
+345448.926222 :triggered Right
+345631.226177 :ons_msNoRwrd
+347139.628530 :trial-129/RewardBlock:0/TransitionBlock:0
+347152.293963 :ons_ms1
+347491.409906 :down
+347491.409906 :triggered Down
+347662.795248 :ons_ms2
+348020.038207 :right
+348020.038207 :triggered Right
+348235.833391 :ons_msNoRwrd
+349744.089914 :trial-130/RewardBlock:0/TransitionBlock:0
+349756.872524 :ons_ms1
+350089.586470 :up
+350089.586470 :triggered Up
+350286.717931 :ons_ms2
+350543.772422 :left
+350883.061138 :right
+350883.061138 :triggered Right
+351049.616543 :ons_msNoRwrd
+352558.142489 :trial-131/RewardBlock:0/TransitionBlock:0
+352570.981550 :ons_ms1
+352956.601134 :down
+352956.601134 :triggered Down
+353187.223548 :ons_ms2
+353509.774271 :left
+353509.774271 :triggered Left
+353700.027327 :ons_msReward
+355208.502382 :trial-132/RewardBlock:0/TransitionBlock:0
+355221.167387 :ons_ms1
+355500.286743 :up
+355500.286743 :triggered Up
+355706.252702 :ons_ms2
+356129.831808 :left
+356129.831808 :triggered Left
+356325.091850 :ons_msReward
+357833.355643 :trial-133/RewardBlock:0/TransitionBlock:0
+357846.186578 :ons_ms1
+358436.059364 :up
+358436.059364 :triggered Up
+358616.985690 :ons_ms2
+358982.334424 :right
+358982.334424 :triggered Right
+359187.568665 :ons_msNoRwrd
+360695.907298 :trial-134/RewardBlock:0/TransitionBlock:0
+360708.723266 :ons_ms1
+360965.003274 :down
+360965.003274 :triggered Down
+361155.947421 :ons_ms2
+361505.910407 :left
+361505.910407 :triggered Left
+361706.730393 :ons_msReward
+363215.258049 :trial-135/RewardBlock:0/TransitionBlock:0
+363227.941871 :ons_ms1
+363485.324802 :up
+363485.324802 :triggered Up
+363665.334664 :ons_ms2
+363930.058294 :right
+363930.058294 :triggered Right
+364145.560534 :ons_msNoRwrd
+365653.767021 :trial-136/RewardBlock:0/TransitionBlock:0
+365666.585982 :ons_ms1
+366034.299649 :down
+366034.299649 :triggered Down
+366210.522624 :ons_ms2
+366524.477908 :left
+366524.477908 :triggered Left
+366715.458833 :ons_msReward
+368223.983924 :trial-137/RewardBlock:0/TransitionBlock:0
+368236.623697 :ons_ms1
+368552.248974 :up
+368552.248974 :triggered Up
+368728.140090 :ons_ms2
+368970.263004 :right
+368970.263004 :triggered Right
+369146.435944 :ons_msReward
+370654.958896 :trial-138/RewardBlock:0/TransitionBlock:0
+370667.651699 :ons_ms1
+372241.566962 :down
+372241.566962 :triggered Down
+372381.890860 :ons_ms2
+373128.264024 :left
+373128.264024 :triggered Left
+373229.085849 :ons_msReward
+374737.337240 :trial-139/RewardBlock:0/TransitionBlock:0
+374750.159195 :ons_ms1
+377129.516626 :up
+377129.516626 :triggered Up
+377235.521630 :ons_ms2
+377541.681617 :right
+377541.681617 :triggered Right
+377666.989689 :ons_msNoRwrd
+379175.374081 :trial-140/RewardBlock:0/TransitionBlock:0
+379188.131032 :ons_ms1
+379550.939494 :down
+379550.939494 :triggered Down
+379717.679646 :ons_ms2
+380072.138998 :right
+380072.138998 :triggered Right
+380198.351561 :ons_msReward
+381706.847998 :trial-141/RewardBlock:0/TransitionBlock:0
+381719.508299 :ons_ms1
+382061.754250 :up
+382061.754250 :triggered Up
+382223.432676 :ons_ms2
+382428.452235 :left
+382747.559052 :right
+382747.559052 :triggered Right
+382874.168478 :ons_msReward
+384382.451943 :trial-142/RewardBlock:0/TransitionBlock:0
+384395.057932 :ons_ms1
+384773.623346 :up
+384773.623346 :triggered Up
+384974.103346 :ons_ms2
+385319.977095 :right
+385319.977095 :triggered Right
+385480.240838 :ons_msNoRwrd
+386988.669278 :trial-143/RewardBlock:0/TransitionBlock:0
+387001.466429 :ons_ms1
+387334.070040 :down
+387334.070040 :triggered Down
+387505.797506 :ons_ms2
+387844.135117 :left
+387844.135117 :triggered Left
+388000.493086 :ons_msReward
+389509.035283 :trial-144/RewardBlock:0/TransitionBlock:0
+389521.749896 :ons_ms1
+390015.132148 :down
+390015.132148 :triggered Down
+390196.116208 :ons_ms2
+390492.962722 :left
+390492.962722 :triggered Left
+390644.144354 :ons_msReward
+392152.457328 :trial-145/RewardBlock:0/TransitionBlock:0
+392165.236517 :ons_ms1
+392486.546612 :down
+392486.546612 :triggered Down
+392633.470511 :ons_ms2
+392864.215234 :left
+392864.215234 :triggered Left
+393030.865578 :ons_msReward
+394539.380832 :trial-146/RewardBlock:0/TransitionBlock:0
+394552.165581 :ons_ms1
+394781.613654 :down
+394781.613654 :triggered Down
+394937.249314 :ons_ms2
+395147.903656 :left
+395147.903656 :triggered Left
+395313.696552 :ons_msNoRwrd
+396822.044593 :trial-147/RewardBlock:0/TransitionBlock:0
+396834.680946 :ons_ms1
+397119.854614 :up
+397119.854614 :triggered Up
+397301.634113 :ons_ms2
+397557.208490 :right
+397557.208490 :triggered Right
+397713.717422 :ons_msNoRwrd
+399221.923909 :trial-148/RewardBlock:0/TransitionBlock:0
+399234.704809 :ons_ms1
+399563.951328 :up
+399563.951328 :triggered Up
+399693.596678 :ons_ms2
+399981.663433 :right
+399981.663433 :triggered Right
+400132.789470 :ons_msNoRwrd
+401641.209785 :trial-149/RewardBlock:0/TransitionBlock:0
+401653.967164 :ons_ms1
+401940.987447 :down
+401940.987447 :triggered Down
+402116.964949 :ons_ms2
+402266.802034 :left
+402266.802034 :triggered Left
+402427.534915 :ons_msNoRwrd
+403935.945821 :trial-150/RewardBlock:0/TransitionBlock:0
+403948.597569 :ons_ms1
+404302.228126 :up
+404302.228126 :triggered Up
+404488.034425 :ons_ms2
+404683.947068 :right
+404683.947068 :triggered Right
+404839.033192 :ons_msNoRwrd
+406347.248660 :trial-151/RewardBlock:0/TransitionBlock:0
+406359.877742 :ons_ms1
+406653.188404 :up
+406653.188404 :triggered Up
+406838.585009 :ons_ms2
+407137.110069 :right
+407137.110069 :triggered Right
+407258.009018 :ons_msNoRwrd
+408767.140523 :trial-152/RewardBlock:0/TransitionBlock:0
+408779.982577 :ons_ms1
+409053.772495 :down
+409053.772495 :triggered Down
+409259.136744 :ons_ms2
+409576.840852 :left
+409576.840852 :triggered Left
+409735.576584 :ons_msNoRwrd
+411244.025552 :trial-153/RewardBlock:0/TransitionBlock:0
+411256.670457 :ons_ms1
+411535.465650 :up
+411535.465650 :triggered Up
+411707.222624 :ons_ms2
+411995.803848 :right
+411995.803848 :triggered Right
+412171.537159 :ons_msNoRwrd
+413679.840724 :trial-154/RewardBlock:0/TransitionBlock:0
+413692.596820 :ons_ms1
+414036.798010 :down
+414036.798010 :triggered Down
+414228.939163 :ons_ms2
+414520.166717 :left
+414520.166717 :triggered Left
+414705.353344 :ons_msNoRwrd
+416213.792475 :trial-155/RewardBlock:0/TransitionBlock:0
+416226.591764 :ons_ms1
+416571.823603 :up
+416571.823603 :triggered Up
+416777.101037 :ons_ms2
+417018.562369 :right
+417018.562369 :triggered Right
+417168.953267 :ons_msNoRwrd
+418677.318414 :trial-156/RewardBlock:0/TransitionBlock:0
+418689.959471 :ons_ms1
+418961.901491 :up
+418961.901491 :triggered Up
+419088.682408 :ons_ms2
+419340.149585 :right
+419340.149585 :triggered Right
+419466.014464 :ons_msNoRwrd
+420974.244472 :trial-157/RewardBlock:0/TransitionBlock:0
+420987.043762 :ons_ms1
+421281.186640 :up
+421281.186640 :triggered Up
+421389.509535 :ons_ms2
+421580.689748 :right
+421580.689748 :triggered Right
+421691.224047 :ons_msNoRwrd
+423199.701668 :trial-158/RewardBlock:0/TransitionBlock:0
+423212.518063 :ons_ms1
+423486.800640 :down
+423486.800640 :triggered Down
+423637.638865 :ons_ms2
+423837.212664 :left
+423837.212664 :triggered Left
+423952.410542 :ons_msReward
+425460.929218 :trial-159/RewardBlock:0/TransitionBlock:0
+425473.572412 :ons_ms1
+425771.813510 :down
+425771.813510 :triggered Down
+425922.224508 :ons_ms2
+426037.848758 :left
+426037.848758 :triggered Left
+426144.870726 :ons_msNoRwrd
+427653.142217 :trial-160/RewardBlock:0/TransitionBlock:0
+427665.952625 :ons_ms1
+427940.014104 :up
+427940.014104 :triggered Up
+428090.674853 :ons_ms2
+428350.174248 :right
+428350.174248 :triggered Right
+428466.341193 :ons_msNoRwrd
+429974.745684 :trial-161/RewardBlock:0/TransitionBlock:0
+429987.598430 :ons_ms1
+430325.723496 :up
+430325.723496 :triggered Up
+430466.454521 :ons_ms2
+430703.307014 :right
+430703.307014 :triggered Right
+430833.802970 :ons_msNoRwrd
+432342.199336 :trial-162/RewardBlock:0/TransitionBlock:0
+432354.864341 :ons_ms1
+432670.333524 :down
+432670.333524 :triggered Down
+432851.111027 :ons_ms2
+433080.682264 :left
+433080.682264 :triggered Left
+433206.624121 :ons_msReward
+434714.911862 :trial-163/RewardBlock:0/TransitionBlock:0
+434727.709013 :ons_ms1
+435011.960230 :down
+435011.960230 :triggered Down
+435208.006730 :ons_ms2
+435435.246391 :left
+435435.246391 :triggered Left
+435596.613057 :ons_msReward
+437106.155539 :trial-164/RewardBlock:0/TransitionBlock:0
+437118.777351 :ons_ms1
+437394.675609 :down
+437394.675609 :triggered Down
+437575.264943 :ons_ms2
+437791.178160 :left
+437791.178160 :triggered Left
+437987.112186 :ons_msNoRwrd
+439495.635994 :trial-165/RewardBlock:0/TransitionBlock:0
+439508.283465 :ons_ms1
+439771.428193 :up
+439771.428193 :triggered Up
+439936.731424 :ons_ms2
+440158.394035 :right
+440158.394035 :triggered Right
+440294.029978 :ons_msReward
+441802.352360 :trial-166/RewardBlock:0/TransitionBlock:0
+441814.981442 :ons_ms1
+442065.796873 :up
+442065.796873 :triggered Up
+442232.410012 :ons_ms2
+442510.956737 :right
+442890.835052 :left
+442890.835052 :triggered Left
+443062.054036 :ons_msReward
+444570.520537 :trial-167/RewardBlock:0/TransitionBlock:0
+444583.129092 :ons_ms1
+445014.011264 :up
+445014.011264 :triggered Up
+445199.684989 :ons_ms2
+445641.529671 :right
+445641.529671 :triggered Right
+445817.125705 :ons_msReward
+447325.602042 :trial-168/RewardBlock:0/TransitionBlock:0
+447338.253363 :ons_ms1
+447713.751207 :up
+447713.751207 :triggered Up
+447880.075678 :ons_ms2
+448264.834820 :right
+448264.834820 :triggered Right
+448450.032138 :ons_msReward
+449958.309616 :trial-169/RewardBlock:0/TransitionBlock:0
+449970.956660 :ons_ms1
+450487.259941 :down
+450487.259941 :triggered Down
+450653.530956 :ons_ms2
+450983.646042 :left
+450983.646042 :triggered Left
+451157.967236 :ons_msReward
+452666.374721 :trial-170/RewardBlock:0/TransitionBlock:0
+452679.176576 :ons_ms1
+453219.128328 :up
+453219.128328 :triggered Up
+453374.689148 :ons_ms2
+453700.068382 :right
+453700.068382 :triggered Right
+453871.479811 :ons_msNoRwrd
+455379.872756 :trial-171/RewardBlock:0/TransitionBlock:0
+455392.531346 :ons_ms1
+455895.903620 :down
+455895.903620 :triggered Down
+456066.874564 :ons_ms2
+456352.143172 :left
+456352.143172 :triggered Left
+456492.973413 :ons_msReward
+458001.256878 :trial-172/RewardBlock:0/TransitionBlock:0
+458014.057878 :ons_ms1
+458456.250243 :down
+458456.250243 :triggered Down
+458647.777712 :ons_ms2
+458939.568487 :left
+459056.103215 :right
+459056.103215 :triggered Right
+459257.007022 :ons_msReward
+460766.364756 :trial-173/RewardBlock:0/TransitionBlock:0
+460779.213226 :ons_ms1
+461184.102093 :up
+461184.102093 :triggered Up
+461388.905686 :ons_ms2
+461768.583859 :right
+461768.583859 :triggered Right
+461933.785735 :ons_msNoRwrd
+463442.206478 :trial-174/RewardBlock:0/TransitionBlock:0
+463454.858226 :ons_ms1
+463791.784147 :down
+463791.784147 :triggered Down
+463982.627795 :ons_ms2
+464400.939045 :left
+464400.939045 :triggered Left
+464576.834437 :ons_msNoRwrd
+466085.052043 :trial-175/RewardBlock:0/TransitionBlock:0
+466097.888966 :ons_ms1
+466367.281307 :up
+466367.281307 :triggered Up
+466573.925527 :ons_ms2
+466822.222498 :right
+466822.222498 :triggered Right
+467007.038347 :ons_msNoRwrd
+468515.462511 :trial-176/RewardBlock:0/TransitionBlock:0
+468528.261800 :ons_ms1
+468782.061836 :down
+468782.061836 :triggered Down
+468963.376046 :ons_ms2
+469347.377384 :right
+469347.377384 :triggered Right
+469523.116254 :ons_msNoRwrd
+471031.535714 :trial-177/RewardBlock:0/TransitionBlock:0
+471044.187034 :ons_ms1
+471365.949589 :down
+471365.949589 :triggered Down
+471556.451113 :ons_ms2
+471846.313164 :left
+471846.313164 :triggered Left
+471973.588877 :ons_msNoRwrd
+473481.878757 :trial-178/RewardBlock:0/TransitionBlock:0
+473494.612615 :ons_ms1
+473915.615098 :up
+473915.615098 :triggered Up
+474061.022960 :ons_ms2
+474282.347724 :right
+474282.347724 :triggered Right
+474393.633413 :ons_msNoRwrd
+475902.090079 :trial-179/RewardBlock:0/TransitionBlock:0
+475914.912033 :ons_ms1
+476318.902825 :right
+476647.409928 :down
+476647.409928 :triggered Down
+476789.757490 :ons_ms2
+476976.302349 :right
+477373.342035 :left
+477373.342035 :triggered Left
+477493.624732 :ons_msReward
+479002.117748 :trial-180/RewardBlock:0/TransitionBlock:0
+479014.807985 :ons_ms1
+479465.173267 :down
+479465.173267 :triggered Down
+479637.394246 :ons_ms2
+479970.936988 :right
+479970.936988 :triggered Right
+480120.792462 :ons_msNoRwrd
+481629.010924 :trial-181/RewardBlock:0/TransitionBlock:0
+481641.792679 :ons_ms1
+481992.545972 :up
+481992.545972 :triggered Up
+482124.515627 :ons_ms2
+482483.055664 :left
+482483.055664 :triggered Left
+482613.846274 :ons_msReward
+484122.335014 :trial-182/RewardBlock:0/TransitionBlock:0
+484135.172792 :ons_ms1
+484613.347201 :up
+484613.347201 :triggered Up
+484783.540668 :ons_ms2
+485086.234510 :right
+485086.234510 :triggered Right
+485266.852925 :ons_msNoRwrd
+486775.341237 :trial-183/RewardBlock:0/TransitionBlock:0
+486788.004959 :ons_ms1
+487279.608165 :up
+487279.608165 :triggered Up
+487405.201483 :ons_ms2
+487673.791971 :right
+487673.791971 :triggered Right
+487861.006965 :ons_msReward
+489369.321222 :trial-184/RewardBlock:0/TransitionBlock:0
+489381.933625 :ons_ms1
+489886.887796 :up
+489886.887796 :triggered Up
+490032.127588 :ons_ms2
+490335.004467 :right
+490335.004467 :triggered Right
+490490.732500 :ons_msNoRwrd
+491999.133143 :trial-185/RewardBlock:0/TransitionBlock:0
+492011.742553 :ons_ms1
+492015.166788 :down
+492015.166788 :triggered Down
+492151.052481 :ons_ms2
+492518.950038 :left
+492518.950038 :triggered Left
+492680.088336 :ons_msReward
+494188.650205 :trial-186/RewardBlock:0/TransitionBlock:0
+494201.306230 :ons_ms1
+494795.198118 :up
+494795.198118 :triggered Up
+494886.991716 :ons_ms2
+495293.325630 :right
+495293.325630 :triggered Right
+495494.433855 :ons_msReward
+497002.743407 :trial-187/RewardBlock:0/TransitionBlock:0
+497015.362226 :ons_ms1
+497743.454418 :down
+497743.454418 :triggered Down
+497874.669690 :ons_ms2
+498192.024831 :left
+498192.024831 :triggered Left
+498318.465334 :ons_msReward
+499826.954929 :trial-188/RewardBlock:0/TransitionBlock:0
+499839.767475 :ons_ms1
+500229.832962 :down
+500229.832962 :triggered Down
+500415.068341 :ons_ms2
+500692.354340 :left
+500692.354340 :triggered Left
+500843.891353 :ons_msNoRwrd
+502352.301832 :trial-189/RewardBlock:0/TransitionBlock:0
+502364.970686 :ons_ms1
+502840.785722 :up
+502840.785722 :triggered Up
+502991.837775 :ons_ms2
+503272.019426 :right
+503272.019426 :triggered Right
+503428.362000 :ons_msNoRwrd
+504936.654873 :trial-190/RewardBlock:0/TransitionBlock:0
+504949.455873 :ons_ms1
+505274.790631 :up
+505274.790631 :triggered Up
+505396.626571 :ons_ms2
+505748.859123 :right
+505748.859123 :triggered Right
+505944.343256 :ons_msNoRwrd
+507452.736201 :trial-191/RewardBlock:0/TransitionBlock:0
+507465.520523 :ons_ms1
+507812.070821 :down
+507812.070821 :triggered Down
+507981.462863 :ons_ms2
+508286.311659 :left
+508286.311659 :triggered Left
+508421.395926 :ons_msReward
+509929.831209 :trial-192/RewardBlock:0/TransitionBlock:0
+509942.519735 :ons_ms1
+510509.792232 :up
+510509.792232 :triggered Up
+510695.968880 :ons_ms2
+510991.032928 :right
+510991.032928 :triggered Right
+511123.275855 :ons_msNoRwrd
+512631.524680 :trial-193/RewardBlock:0/TransitionBlock:0
+512644.269229 :ons_ms1
+513049.835930 :up
+513049.835930 :triggered Up
+513216.114215 :ons_ms2
+513527.660089 :left
+513527.660089 :triggered Left
+513663.562461 :ons_msReward
+515172.021692 :trial-194/RewardBlock:0/TransitionBlock:0
+515184.829962 :ons_ms1
+515520.848399 :up
+515520.848399 :triggered Up
+515689.418915 :ons_ms2
+515999.795581 :right
+515999.795581 :triggered Right
+516181.174367 :ons_msNoRwrd
+517689.579713 :trial-195/RewardBlock:0/TransitionBlock:0
+517702.234455 :ons_ms1
+518054.262588 :up
+518054.262588 :triggered Up
+518241.337739 :ons_ms2
+518483.891730 :right
+518483.891730 :triggered Right
+518669.554764 :ons_msNoRwrd
+520177.724901 :trial-196/RewardBlock:0/TransitionBlock:0
+520190.564389 :ons_ms1
+520473.112256 :down
+520473.112256 :triggered Down
+520639.236584 :ons_ms2
+520962.457015 :left
+520962.457015 :triggered Left
+521103.108069 :ons_msReward
+522611.619047 :trial-197/RewardBlock:0/TransitionBlock:0
+522624.387544 :ons_ms1
+522846.614661 :down
+522846.614661 :triggered Down
+523027.050895 :ons_ms2
+523344.705822 :right
+523344.705822 :triggered Right
+523545.521959 :ons_msReward
+525053.997869 :trial-198/RewardBlock:0/TransitionBlock:0
+525066.662875 :ons_ms1
+525466.376260 :down
+525466.376260 :triggered Down
+525631.348486 :ons_ms2
+525987.510333 :right
+525987.510333 :triggered Right
+526122.500089 :ons_msNoRwrd
+527630.740361 :trial-199/RewardBlock:0/TransitionBlock:0
+527643.381417 :ons_ms1
+527868.200124 :up
+527868.200124 :triggered Up
+528035.698081 :ons_ms2
+528425.174259 :right
+528425.174259 :triggered Right
+528645.749771 :ons_msNoRwrd
+530154.167093 :trial-200/RewardBlock:0/TransitionBlock:0
+530166.928320 :ons_ms1
+530430.794930 :down
+530430.794930 :triggered Down
+530606.027884 :ons_ms2
+530950.675545 :left
+530950.675545 :triggered Left
+531091.262023 :ons_msReward
+532599.768724 :trial-201/RewardBlock:0/TransitionBlock:0
+532612.417479 :ons_ms1
+532976.637203 :down
+532976.637203 :triggered Down
+533122.461172 :ons_ms2
+533467.328648 :right
+533467.328648 :triggered Right
+533598.895025 :ons_msReward
+535107.249481 :trial-202/RewardBlock:0/TransitionBlock:0
+535120.037223 :ons_ms1
+535549.607776 :left
+536375.795492 :down
+536375.795492 :triggered Down
+536563.372710 :ons_ms2
+536904.904049 :left
+536904.904049 :triggered Left
+537005.328155 :ons_msReward
+538513.811335 :trial-203/RewardBlock:0/TransitionBlock:0
+538526.582399 :ons_ms1
+539103.705931 :up
+539103.705931 :triggered Up
+539239.173377 :ons_ms2
+539573.265228 :right
+539573.265228 :triggered Right
+539733.425906 :ons_msNoRwrd
+541241.967675 :trial-204/RewardBlock:0/TransitionBlock:0
+541254.577085 :ons_ms1
+541576.833154 :up
+541576.833154 :triggered Up
+541758.495048 :ons_ms2
+542116.799019 :right
+542116.799019 :triggered Right
+542244.368531 :ons_msNoRwrd
+543752.754633 :trial-205/RewardBlock:0/TransitionBlock:0
+543765.631328 :ons_ms1
+544112.274856 :up
+544112.274856 :triggered Up
+544282.691131 :ons_ms2
+544659.293608 :left
+544659.293608 :triggered Left
+544809.970607 :ons_msReward
+546318.494842 :trial-206/RewardBlock:0/TransitionBlock:0
+546331.280446 :ons_ms1
+546666.262248 :up
+546666.262248 :triggered Up
+546862.300194 :ons_ms2
+547195.402451 :right
+547195.402451 :triggered Right
+547357.074891 :ons_msNoRwrd
+548865.418655 :trial-207/RewardBlock:0/TransitionBlock:0
+548878.079384 :ons_ms1
+549495.827155 :up
+549495.827155 :triggered Up
+549671.308150 :ons_ms2
+549999.689095 :right
+549999.689095 :triggered Right
+550181.433953 :ons_msReward
+551689.710576 :trial-208/RewardBlock:0/TransitionBlock:0
+551702.347356 :ons_ms1
+552127.099947 :down
+552127.099947 :triggered Down
+552277.979655 :ons_ms2
+552676.633311 :right
+552676.633311 :triggered Right
+552797.715723 :ons_msNoRwrd
+554306.119359 :trial-209/RewardBlock:0/TransitionBlock:0
+554318.873745 :ons_ms1
+555073.638357 :down
+555073.638357 :triggered Down
+555208.755126 :ons_ms2
+555567.087750 :left
+555567.087750 :triggered Left
+555662.351342 :ons_msNoRwrd
+557170.716917 :trial-210/RewardBlock:0/TransitionBlock:0
+557183.372514 :ons_ms1
+557644.874361 :down
+557644.874361 :triggered Down
+557780.130974 :ons_ms2
+558102.310920 :right
+558102.310920 :triggered Right
+558247.755132 :ons_msNoRwrd
+559756.053137 :trial-211/RewardBlock:0/TransitionBlock:0
+559768.824628 :ons_ms1
+560001.278261 :up
+560001.278261 :triggered Up
+560112.060173 :ons_ms2
+560453.317812 :left
+560453.317812 :triggered Left
+560583.110703 :ons_msReward
+562091.444632 :trial-212/RewardBlock:0/TransitionBlock:0
+562104.255895 :ons_ms1
+562480.594937 :up
+562480.594937 :triggered Up
+562625.611493 :ons_ms2
+563041.337141 :right
+563041.337141 :triggered Right
+563167.354265 :ons_msNoRwrd
+564675.676219 :trial-213/RewardBlock:0/TransitionBlock:0
+564688.341224 :ons_ms1
+565075.402862 :up
+565075.402862 :triggered Up
+565260.243088 :ons_ms2
+565609.126673 :left
+565609.126673 :triggered Left
+565750.513721 :ons_msNoRwrd
+567258.705668 :trial-214/RewardBlock:0/TransitionBlock:0
+567271.367679 :ons_ms1
+567663.828462 :up
+567663.828462 :triggered Up
+567839.108031 :ons_ms2
+568219.332319 :left
+568219.332319 :triggered Left
+568404.935909 :ons_msReward
+569913.465704 :trial-215/RewardBlock:0/TransitionBlock:0
+569926.293218 :ons_ms1
+570330.733048 :up
+570330.733048 :triggered Up
+570496.457519 :ons_ms2
+570843.225922 :right
+570843.225922 :triggered Right
+571019.268428 :ons_msReward
+572527.742627 :trial-216/RewardBlock:0/TransitionBlock:0
+572540.406777 :ons_ms1
+572956.819238 :up
+572956.819238 :triggered Up
+573144.356257 :ons_ms2
+573498.296864 :left
+573498.296864 :triggered Left
+573656.113565 :ons_msReward
+575164.413708 :trial-217/RewardBlock:0/TransitionBlock:0
+575177.031244 :ons_ms1
+575544.421603 :up
+575544.421603 :triggered Up
+575694.612358 :ons_ms2
+576047.485538 :right
+576047.485538 :triggered Right
+576193.427540 :ons_msNoRwrd
+577702.166886 :trial-218/RewardBlock:0/TransitionBlock:0
+577714.784849 :ons_ms1
+578047.877697 :down
+578047.877697 :triggered Down
+578234.313505 :ons_ms2
+578539.604068 :left
+578539.604068 :triggered Left
+578680.047282 :ons_msReward
+580188.532600 :trial-219/RewardBlock:0/TransitionBlock:0
+580201.182637 :ons_ms1
+580556.727378 :down
+580556.727378 :triggered Down
+580767.595548 :ons_ms2
+581064.600294 :left
+581064.600294 :triggered Left
+581225.536739 :ons_msReward
+582733.816783 :trial-220/RewardBlock:0/TransitionBlock:0
+582746.414647 :ons_ms1
+583108.484549 :down
+583108.484549 :triggered Down
+583294.665901 :ons_ms2
+583548.617327 :left
+583548.617327 :triggered Left
+583668.586981 :ons_msReward
+585176.978215 :trial-221/RewardBlock:0/TransitionBlock:0
+585189.784346 :ons_ms1
+585600.646700 :down
+585600.646700 :triggered Down
+585800.942808 :ons_ms2
+586031.236355 :left
+586031.236355 :triggered Left
+586197.698104 :ons_msNoRwrd
+587705.801526 :trial-222/RewardBlock:0/TransitionBlock:0
+587718.461827 :ons_ms1
+587995.193157 :down
+587995.193157 :triggered Down
+588165.910074 :ons_ms2
+588517.779546 :right
+588517.779546 :triggered Right
+588722.712719 :ons_msNoRwrd
+590230.882000 :trial-223/RewardBlock:0/TransitionBlock:0
+590243.701817 :ons_ms1
+590546.841703 :up
+590546.841703 :triggered Up
+590641.663099 :ons_ms2
+590987.311901 :right
+590987.311901 :triggered Right
+591132.470867 :ons_msNoRwrd
+592640.889471 :trial-224/RewardBlock:0/TransitionBlock:0
+592653.498454 :ons_ms1
+593042.957098 :up
+593042.957098 :triggered Up
+593213.865604 :ons_ms2
+593533.913690 :right
+593533.913690 :triggered Right
+593705.458119 :ons_msNoRwrd
+595213.685561 :trial-225/RewardBlock:0/TransitionBlock:0
+595226.328756 :ons_ms1
+595675.923831 :up
+595675.923831 :triggered Up
+595839.948373 :ons_ms2
+596162.896388 :right
+596162.896388 :triggered Right
+596322.959561 :ons_msNoRwrd
+597831.202827 :trial-226/RewardBlock:0/TransitionBlock:0
+597843.977740 :ons_ms1
+598126.734729 :up
+598126.734729 :triggered Up
+598294.294269 :ons_ms2
+598624.751907 :left
+598624.751907 :triggered Left
+598791.521995 :ons_msNoRwrd
+600299.955567 :trial-227/RewardBlock:0/TransitionBlock:0
+600312.723209 :ons_ms1
+600581.045984 :up
+600581.045984 :triggered Up
+600757.321990 :ons_ms2
+601037.878266 :right
+601037.878266 :triggered Right
+601159.138155 :ons_msNoRwrd
+602667.474650 :trial-228/RewardBlock:0/TransitionBlock:0
+602680.133240 :ons_ms1
+602913.332703 :down
+602913.332703 :triggered Down
+603079.269291 :ons_ms2
+603378.728350 :left
+603378.728350 :triggered Left
+603529.977980 :ons_msReward
+605038.275558 :trial-229/RewardBlock:0/TransitionBlock:0
+605051.063728 :ons_ms1
+605394.442964 :down
+605394.442964 :triggered Down
+605560.876060 :ons_ms2
+605806.679374 :left
+605806.679374 :triggered Left
+605952.961789 :ons_msReward
+607461.464214 :trial-230/RewardBlock:0/TransitionBlock:0
+607474.065926 :ons_ms1
+607771.042020 :down
+607771.042020 :triggered Down
+607946.655160 :ons_ms2
+608158.377357 :left
+608158.377357 :triggered Left
+608314.665619 :ons_msNoRwrd
+609823.021358 :trial-231/RewardBlock:0/TransitionBlock:0
+609835.673961 :ons_ms1
+610179.555264 :down
+610179.555264 :triggered Down
+610365.564699 :ons_ms2
+610709.341655 :right
+610709.341655 :triggered Right
+610930.120304 :ons_msNoRwrd
+612438.332778 :trial-232/RewardBlock:0/TransitionBlock:0
+612451.129501 :ons_ms1
+613271.746154 :down
+613271.746154 :triggered Down
+613417.981956 :ons_ms2
+613720.074087 :right
+613720.074087 :triggered Right
+613840.262272 :ons_msNoRwrd
+615348.771112 :trial-233/RewardBlock:0/TransitionBlock:0
+615361.514806 :ons_ms1
+615604.762880 :down
+615604.762880 :triggered Down
+615735.081359 :ons_ms2
+615989.820954 :right
+615989.820954 :triggered Right
+616140.273434 :ons_msNoRwrd
+617648.667234 :trial-234/RewardBlock:0/TransitionBlock:0
+617661.321548 :ons_ms1
+617922.467416 :down
+617922.467416 :triggered Down
+618073.214978 :ons_ms2
+618268.933894 :right
+618268.933894 :triggered Right
+618419.138763 :ons_msNoRwrd
+619927.381600 :trial-235/RewardBlock:0/TransitionBlock:0
+619939.976043 :ons_ms1
+620175.569519 :up
+620175.569519 :triggered Up
+620305.665617 :ons_ms2
+620579.630018 :left
+620579.630018 :triggered Left
+620676.263389 :ons_msReward
+622184.814139 :trial-236/RewardBlock:0/TransitionBlock:0
+622197.494112 :ons_ms1
+622462.245540 :up
+622462.245540 :triggered Up
+622643.010640 :ons_ms2
+622935.373619 :right
+622935.373619 :triggered Right
+623079.279127 :ons_msNoRwrd
+624587.668223 :trial-237/RewardBlock:0/TransitionBlock:0
+624600.301582 :ons_ms1
+624866.581022 :up
+624866.581022 :triggered Up
+625036.480262 :ons_ms2
+625344.361988 :right
+625344.361988 :triggered Right
+625465.396503 :ons_msReward
+626973.680823 :trial-238/RewardBlock:0/TransitionBlock:0
+626986.425372 :ons_ms1
+627285.536748 :up
+627285.536748 :triggered Up
+627490.905273 :ons_ms2
+627705.987128 :right
+627705.987128 :triggered Right
+627923.053731 :ons_msNoRwrd
+629431.488586 :trial-239/RewardBlock:0/TransitionBlock:0
+629444.254518 :ons_ms1
+629719.464251 :up
+629719.464251 :triggered Up
+629924.638621 :ons_ms2
+630188.109221 :right
+630188.109221 :triggered Right
+630359.613451 :ons_msReward
+631868.093638 :trial-240/RewardBlock:0/TransitionBlock:0
+631880.779170 :ons_ms1
+632280.647795 :up
+632280.647795 :triggered Up
+632471.379825 :ons_ms2
+632753.183144 :right
+632753.183144 :triggered Right
+632879.250731 :ons_msNoRwrd
+634387.553013 :trial-241/RewardBlock:0/TransitionBlock:0
+634400.255225 :ons_ms1
+635031.404424 :up
+635031.404424 :triggered Up
+635253.649929 :ons_ms2
+635562.596944 :right
+635562.596944 :triggered Right
+635719.498891 :ons_msNoRwrd
+637228.009013 :trial-242/RewardBlock:0/TransitionBlock:0
+637240.798466 :ons_ms1
+637607.395097 :up
+637607.395097 :triggered Up
+637832.782585 :ons_ms2
+638151.144854 :right
+638151.144854 :triggered Right
+638326.582228 :ons_msReward
+639835.017938 :trial-243/RewardBlock:0/TransitionBlock:0
+639847.694062 :ons_ms1
+640082.400582 :up
+640082.400582 :triggered Up
+640317.602754 :ons_ms2
+640666.923402 :right
+640666.923402 :triggered Right
+640899.357363 :ons_msNoRwrd
+642407.489866 :trial-244/RewardBlock:0/TransitionBlock:0
+642420.094144 :ons_ms1
+642828.748087 :up
+642828.748087 :triggered Up
+643079.357816 :ons_ms2
+643446.176400 :right
+643446.176400 :triggered Right
+643620.763168 :ons_msNoRwrd
+645129.124038 :trial-245/RewardBlock:0/TransitionBlock:0
+645141.915202 :ons_ms1
+645846.433335 :up
+645846.433335 :triggered Up
+646076.711059 :ons_ms2
+646432.530782 :left
+646432.530782 :triggered Left
+646587.555323 :ons_msReward
+648095.983763 :trial-246/RewardBlock:0/TransitionBlock:0
+648108.645775 :ons_ms1
+648338.221716 :up
+648338.221716 :triggered Up
+648519.015042 :ons_ms2
+648778.812085 :left
+648778.812085 :triggered Left
+648949.135559 :ons_msReward
+650457.388661 :trial-247/RewardBlock:0/TransitionBlock:0
+650470.185384 :ons_ms1
+650792.355922 :up
+650792.355922 :triggered Up
+650993.244333 :ons_ms2
+651376.083304 :right
+651376.083304 :triggered Right
+651562.177842 :ons_msNoRwrd
+653070.554536 :trial-248/RewardBlock:0/TransitionBlock:0
+653083.330304 :ons_ms1
+653372.881450 :up
+653372.881450 :triggered Up
+653517.011478 :ons_ms2
+653801.374740 :right
+653801.374740 :triggered Right
+653966.770345 :ons_msNoRwrd
+655475.133781 :trial-249/RewardBlock:0/TransitionBlock:0
+655487.810333 :ons_ms1
+655812.550650 :up
+655812.550650 :triggered Up
+655952.553806 :ons_ms2
+656309.189495 :left
+656309.189495 :triggered Left
+656455.583101 :ons_msReward
+657963.918313 :trial-250/RewardBlock:0/TransitionBlock:0
+657976.718457 :ons_ms1
+658262.212439 :up
+658262.212439 :triggered Up
+658377.450945 :ons_ms2
+658676.643575 :right
+658676.643575 :triggered Right
+658816.943951 :ons_msNoRwrd
+660325.336468 :trial-251/RewardBlock:0/TransitionBlock:0
+660338.136185 :ons_ms1
+660604.097877 :up
+660604.097877 :triggered Up
+660739.924981 :ons_ms2
+661085.605857 :right
+661085.605857 :triggered Right
+661200.593756 :ons_msNoRwrd
+662709.029467 :trial-252/RewardBlock:0/TransitionBlock:0
+662721.685919 :ons_ms1
+662983.003704 :up
+662983.003704 :triggered Up
+663133.220974 :ons_ms2
+663455.636131 :right
+663455.636131 :triggered Right
+663640.595672 :ons_msNoRwrd
+665148.790613 :trial-253/RewardBlock:0/TransitionBlock:0
+665161.604442 :ons_ms1
+665401.090863 :up
+665401.090863 :triggered Up
+665562.969432 :ons_ms2
+665840.413662 :right
+665840.413662 :triggered Right
+666020.891379 :ons_msNoRwrd
+667529.262941 :trial-254/RewardBlock:0/TransitionBlock:0
+667541.874489 :ons_ms1
+667843.930698 :up
+667843.930698 :triggered Up
+668009.322026 :ons_ms2
+668262.380508 :right
+668262.380508 :triggered Right
+668382.941608 :ons_msReward
+669891.428637 :trial-255/RewardBlock:0/TransitionBlock:0
+669904.083379 :ons_ms1
+670136.800447 :up
+670136.800447 :triggered Up
+670322.691849 :ons_ms2
+670675.002234 :right
+670675.002234 :triggered Right
+670821.475812 :ons_msNoRwrd
+672329.709669 :trial-256/RewardBlock:0/TransitionBlock:0
+672342.313948 :ons_ms1
+672591.765587 :down
+672591.765587 :triggered Down
+672761.723416 :ons_ms2
+673030.207845 :left
+673030.207845 :triggered Left
+673140.997882 :ons_msReward
+674649.498596 :trial-257/RewardBlock:0/TransitionBlock:0
+674662.314136 :ons_ms1
+674993.948253 :down
+674993.948253 :triggered Down
+675154.154263 :ons_ms2
+675360.899838 :left
+675360.899838 :triggered Left
+675501.255809 :ons_msNoRwrd
+677009.647899 :trial-258/RewardBlock:0/TransitionBlock:0
+677022.307772 :ons_ms1
+677274.680723 :up
+677274.680723 :triggered Up
+677460.608049 :ons_ms2
+677854.401405 :right
+677854.401405 :triggered Right
+678050.858453 :ons_msNoRwrd
+679559.111555 :trial-259/RewardBlock:0/TransitionBlock:0
+679571.901436 :ons_ms1
+679814.338676 :down
+679814.338676 :triggered Down
+679988.510618 :ons_ms2
+680260.476160 :left
+680260.476160 :triggered Left
+680405.934484 :ons_msReward
+681914.337693 :trial-260/RewardBlock:0/TransitionBlock:0
+681927.062570 :ons_ms1
+682239.048502 :down
+682239.048502 :triggered Down
+682399.458503 :ons_ms2
+682607.136794 :left
+682607.136794 :triggered Left
+682716.437308 :ons_msReward
+684224.951279 :trial-261/RewardBlock:0/TransitionBlock:0
+684237.598751 :ons_ms1
+684519.464507 :down
+684519.464507 :triggered Down
+684675.063389 :ons_ms2
+684924.730139 :left
+684924.730139 :triggered Left
+685051.559808 :ons_msReward
+686559.867649 :trial-262/RewardBlock:0/TransitionBlock:0
+686572.471072 :ons_ms1
+686818.901756 :down
+686818.901756 :triggered Down
+686965.269703 :ons_ms2
+687211.818847 :left
+687807.042025 :right
+687807.042025 :triggered Right
+687926.658863 :ons_msNoRwrd
+689435.002200 :trial-263/RewardBlock:0/TransitionBlock:0
+689447.612466 :ons_ms1
+689818.808955 :down
+689818.808955 :triggered Down
+689993.784033 :ons_ms2
+690233.176370 :right
+690233.176370 :triggered Right
+690409.929210 :ons_msNoRwrd
+691918.276396 :trial-264/RewardBlock:0/TransitionBlock:0
+691930.944395 :ons_ms1
+692158.316630 :up
+692158.316630 :triggered Up
+692290.258915 :ons_ms2
+692565.561021 :right
+692565.561021 :triggered Right
+692695.569023 :ons_msNoRwrd
+694203.628824 :trial-265/RewardBlock:0/TransitionBlock:0
+694216.424265 :ons_ms1
+694451.812466 :up
+694451.812466 :triggered Up
+694618.033873 :ons_ms2
+694857.661419 :right
+694857.661419 :triggered Right
+695023.757523 :ons_msNoRwrd
+696532.120960 :trial-266/RewardBlock:0/TransitionBlock:0
+696544.902287 :ons_ms1
+696805.218076 :up
+696805.218076 :triggered Up
+696976.759512 :ons_ms2
+697283.629834 :right
+697283.629834 :triggered Right
+697459.184812 :ons_msNoRwrd
+698967.512326 :trial-267/RewardBlock:0/TransitionBlock:0
+698980.178614 :ons_ms1
+699291.828409 :up
+699291.828409 :triggered Up
+699448.129501 :ons_ms2
+699701.502737 :right
+700062.403002 :left
+700062.403002 :triggered Left
+700178.537445 :ons_msReward
+701686.816206 :trial-268/RewardBlock:0/TransitionBlock:0
+701699.610791 :ons_ms1
+701924.488941 :down
+701924.488941 :triggered Down
+702111.483266 :ons_ms2
+702312.153573 :left
+702312.153573 :triggered Left
+702437.665209 :ons_msReward
+703946.098353 :trial-269/RewardBlock:0/TransitionBlock:0
+703958.794577 :ons_ms1
+704181.177360 :down
+704181.177360 :triggered Down
+704332.386362 :ons_ms2
+704456.151027 :left
+704456.151027 :triggered Left
+704586.239000 :ons_msReward
+706094.443349 :trial-270/RewardBlock:0/TransitionBlock:0
+706107.112631 :ons_ms1
+706571.584116 :down
+706571.584116 :triggered Down
+706737.726406 :ons_ms2
+706889.347668 :left
+707369.254080 :right
+707369.254080 :triggered Right
+707495.756165 :ons_msNoRwrd
+709003.941269 :trial-271/RewardBlock:0/TransitionBlock:0
+709016.570352 :ons_ms1
+709311.706673 :down
+709311.706673 :triggered Down
+709502.924947 :ons_ms2
+709942.484240 :right
+709942.484240 :triggered Right
+710068.359810 :ons_msReward
+711576.858386 :trial-272/RewardBlock:0/TransitionBlock:0
+711589.628594 :ons_ms1
+711999.816536 :down
+711999.816536 :triggered Down
+712149.160107 :ons_ms2
+712450.785239 :left
+712450.785239 :triggered Left
+712601.972003 :ons_msReward
+714110.443209 :trial-273/RewardBlock:0/TransitionBlock:0
+714123.089825 :ons_ms1
+714424.977537 :down
+714424.977537 :triggered Down
+714575.285898 :ons_ms2
+714874.459711 :left
+714874.459711 :triggered Left
+715016.413830 :ons_msNoRwrd
+716524.667787 :trial-274/RewardBlock:0/TransitionBlock:0
+716537.476484 :ons_ms1
+716865.783445 :down
+716865.783445 :triggered Down
+717016.114899 :ons_ms2
+717299.071176 :left
+717299.071176 :triggered Left
+717454.368561 :ons_msReward
+718962.805554 :trial-275/RewardBlock:0/TransitionBlock:0
+718975.426939 :ons_ms1
+719335.056213 :down
+719335.056213 :triggered Down
+719486.239556 :ons_ms2
+719709.801812 :left
+720043.724739 :right
+720043.724739 :triggered Right
+720159.343002 :ons_msNoRwrd
+721667.689760 :trial-276/RewardBlock:0/TransitionBlock:0
+721680.347495 :ons_ms1
+722092.598445 :down
+722092.598445 :triggered Down
+722298.857776 :ons_ms2
+722614.350480 :left
+722614.350480 :triggered Left
+722750.314861 :ons_msReward
+724258.604313 :trial-277/RewardBlock:0/TransitionBlock:0
+724271.215007 :ons_ms1
+724621.921258 :down
+724621.921258 :triggered Down
+724802.202253 :ons_ms2
+725081.562378 :left
+725081.562378 :triggered Left
+725222.716354 :ons_msReward
+726731.280788 :trial-278/RewardBlock:0/TransitionBlock:0
+726744.008659 :ons_ms1
+727036.710340 :down
+727036.710340 :triggered Down
+727211.815853 :ons_ms2
+727483.415750 :left
+727483.415750 :triggered Left
+727633.368301 :ons_msReward
+729141.863456 :trial-279/RewardBlock:0/TransitionBlock:0
+729154.518625 :ons_ms1
+729456.641975 :down
+729456.641975 :triggered Down
+729647.443285 :ons_ms2
+729948.088232 :left
+729948.088232 :triggered Left
+730129.347702 :ons_msReward
+731637.653405 :trial-280/RewardBlock:0/TransitionBlock:0
+731650.473649 :ons_ms1
+731876.627067 :down
+731876.627067 :triggered Down
+732072.939141 :ons_ms2
+732268.700395 :left
+732564.554321 :right
+732564.554321 :triggered Right
+732675.934950 :ons_msReward
+734184.435664 :trial-281/RewardBlock:0/TransitionBlock:0
+734197.258474 :ons_ms1
+734450.213036 :down
+734450.213036 :triggered Down
+734620.187544 :ons_ms2
+734932.074260 :right
+734932.074260 :triggered Right
+735143.092109 :ons_msNoRwrd
+736651.602659 :trial-282/RewardBlock:0/TransitionBlock:0
+736664.297600 :ons_ms1
+737017.565077 :down
+737017.565077 :triggered Down
+737184.181637 :ons_ms2
+737435.386235 :left
+737435.386235 :triggered Left
+737555.938782 :ons_msReward
+739064.265440 :trial-283/RewardBlock:0/TransitionBlock:0
+739076.869291 :ons_ms1
+739417.176253 :down
+739417.176253 :triggered Down
+739564.065939 :ons_ms2
+739845.057141 :left
+739845.057141 :triggered Left
+739967.516175 :ons_msNoRwrd
+741475.939056 :trial-284/RewardBlock:0/TransitionBlock:0
+741488.597219 :ons_ms1
+741738.152350 :down
+741738.152350 :triggered Down
+741897.875538 :ons_ms2
+742220.477580 :left
+742220.477580 :triggered Left
+742350.622003 :ons_msReward
+743859.137685 :trial-285/RewardBlock:0/TransitionBlock:0
+743871.826639 :ons_ms1
+744113.846916 :down
+744113.846916 :triggered Down
+744275.530474 :ons_ms2
+744566.946196 :left
+744566.946196 :triggered Left
+744707.955197 :ons_msReward
+746216.247215 :trial-286/RewardBlock:0/TransitionBlock:0
+746228.857053 :ons_ms1
+746484.635422 :down
+746484.635422 :triggered Down
+746645.640719 :ons_ms2
+746939.793006 :left
+746939.793006 :triggered Left
+747080.199441 :ons_msReward
+748588.639001 :trial-287/RewardBlock:0/TransitionBlock:0
+748601.479772 :ons_ms1
+748846.283228 :down
+748846.283228 :triggered Down
+749021.726161 :ons_ms2
+749381.383233 :right
+749381.383233 :triggered Right
+749577.041850 :ons_msNoRwrd
+751085.483547 :trial-288/RewardBlock:0/TransitionBlock:0
+751098.173784 :ons_ms1
+751474.525228 :up
+751474.525228 :triggered Up
+751625.765449 :ons_ms2
+751955.504199 :right
+751955.504199 :triggered Right
+752111.724891 :ons_msNoRwrd
+753619.949768 :trial-289/RewardBlock:0/TransitionBlock:0
+753632.751195 :ons_ms1
+753950.668275 :up
+753950.668275 :triggered Up
+754131.946562 :ons_ms2
+754468.048392 :right
+754468.048392 :triggered Right
+754645.138652 :ons_msNoRwrd
+756153.547420 :trial-290/RewardBlock:0/TransitionBlock:0
+756166.391613 :ons_ms1
+756734.907304 :up
+756734.907304 :triggered Up
+756940.059436 :ons_ms2
+757275.976091 :left
+757275.976091 :triggered Left
+757437.223441 :ons_msReward
+758945.697213 :trial-291/RewardBlock:0/TransitionBlock:0
+758958.341263 :ons_ms1
+759240.715074 :up
+759240.715074 :triggered Up
+759436.445536 :ons_ms2
+759745.822344 :left
+759745.822344 :triggered Left
+759897.045032 :ons_msReward
+761405.310963 :trial-292/RewardBlock:0/TransitionBlock:0
+761418.146175 :ons_ms1
+761714.512433 :up
+761714.512433 :triggered Up
+761896.090078 :ons_ms2
+762318.810024 :right
+762318.810024 :triggered Right
+762498.799358 :ons_msNoRwrd
+764007.228226 :trial-293/RewardBlock:0/TransitionBlock:0
+764020.040773 :ons_ms1
+764528.096298 :up
+764528.096298 :triggered Up
+764673.164601 :ons_ms2
+765061.189745 :right
+765061.189745 :triggered Right
+765177.192042 :ons_msNoRwrd
+766685.609364 :trial-294/RewardBlock:0/TransitionBlock:0
+766698.270520 :ons_ms1
+766988.035921 :up
+766988.035921 :triggered Up
+767140.041217 :ons_ms2
+767532.472920 :right
+767532.472920 :triggered Right
+767633.448273 :ons_msNoRwrd
+769141.677853 :trial-295/RewardBlock:0/TransitionBlock:0
+769154.291540 :ons_ms1
+769574.932655 :up
+769574.932655 :triggered Up
+769701.041725 :ons_ms2
+770007.684107 :right
+770007.684107 :triggered Right
+770123.735584 :ons_msNoRwrd
+771632.048985 :trial-296/RewardBlock:2/TransitionBlock:0
+771644.823470 :ons_ms1
+771923.422797 :up
+771923.422797 :triggered Up
+772074.446197 :ons_ms2
+772795.840456 :left
+772795.840456 :triggered Left
+772920.356938 :ons_msNoRwrd
+774428.791365 :trial-297/RewardBlock:2/TransitionBlock:0
+774441.469628 :ons_ms1
+775966.709190 :up
+775966.709190 :triggered Up
+776087.906641 :ons_ms2
+776413.909396 :right
+776413.909396 :triggered Right
+776534.854959 :ons_msReward
+777851.384298 :up
+778043.220106 :trial-298/RewardBlock:2/TransitionBlock:0
+778056.021533 :ons_ms1
+778455.736629 :up
+778455.736629 :triggered Up
+778576.968721 :ons_ms2
+778894.297775 :right
+778894.297775 :triggered Right
+779015.206132 :ons_msReward
+780523.702997 :trial-299/RewardBlock:2/TransitionBlock:0
+780536.329513 :ons_ms1
+780870.792569 :up
+780870.792569 :triggered Up
+781021.595299 :ons_ms2
+781311.836680 :right
+781311.836680 :triggered Right
+781442.797925 :ons_msReward
+782951.719879 :trial-300/RewardBlock:2/TransitionBlock:0
+782964.412254 :ons_ms1
+783308.557849 :up
+783308.557849 :triggered Up
+783467.886310 :ons_ms2
+783819.118150 :right
+783819.118150 :triggered Right
+783919.437052 :ons_msReward
